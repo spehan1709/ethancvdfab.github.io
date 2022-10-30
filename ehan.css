@@ -1,5 +1,5 @@
 body {
-    background-color: powderblue;
+    background-color: rgb(115, 239, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -16,7 +16,7 @@ h1 , h2{
 }
 
 #abouttext{
-    background-color: rgb(75, 241, 102);
+    background-color: rgb(75, 241, 205);
     text-align: center;
 }
 
@@ -25,9 +25,8 @@ h1 , h2{
     margin-left: auto;
     margin-right: auto;
 }
-
 #container {
-    background-color: rgb(75, 241, 102);
+    background-color: rgb(75, 241, 205);
     margin-left: auto;
     margin-right: auto;
     height: 45px;
