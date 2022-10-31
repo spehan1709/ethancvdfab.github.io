@@ -1,3 +1,4 @@
+/* use less shitty colours please*/
 body {
     background-color: rgb(115, 239, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -17,7 +18,6 @@ h1 , h2{
 
 #abouttext{
     background-color: rgb(75, 241, 205);
-    border-radius: 15px;
     text-align: center;
 }
 
