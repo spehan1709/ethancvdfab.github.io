@@ -4,6 +4,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1{
+    font-size: 35;
+}
+
 h1 , h2{
     text-align: center;
 }
