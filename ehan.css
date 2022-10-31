@@ -17,6 +17,7 @@ h1 , h2{
 
 #abouttext{
     background-color: rgb(75, 241, 205);
+    border-radius: 15px;
     text-align: center;
 }
 
